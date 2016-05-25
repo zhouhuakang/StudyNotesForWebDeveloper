@@ -1,4 +1,4 @@
-1.读懂下面代码片段  关键点  .box代表是class = box的元素。
+#1.读懂下面代码片段  关键点  .box代表是class = box的元素。
 
 ```javascript	
 $(".box").click(function(e){
@@ -9,11 +9,11 @@ $(".box").click(function(e){
   }  
 ``` 
 Reference:  
-1.[http://www.w3school.com.cn/jquery/attributes_removeclass.asp](http://www.w3school.com.cn/jquery/attributes_removeclass.asp)
-2.[http://www.w3school.com.cn/jquery/attributes_removeclass.asp](http://www.w3school.com.cn/jquery/attributes_removeclass.asp)
+1.1.[http://www.w3school.com.cn/jquery/attributes_removeclass.asp](http://www.w3school.com.cn/jquery/attributes_removeclass.asp)
+1.2.[http://www.w3school.com.cn/jquery/attributes_removeclass.asp](http://www.w3school.com.cn/jquery/attributes_removeclass.asp)
 
 
-3.
+#3.事件绑定
 
 ```javascript
 $wizard.wizard().on('finished', function (e) {
@@ -34,7 +34,17 @@ $wizard.wizard().on('finished', function (e) {
 });
 ```
 Reference:  
-1.[http://getfuelux.com/javascript.html#wizard](http://getfuelux.com/javascript.html#wizard)
+2.1.[http://getfuelux.com/javascript.html#wizard](http://getfuelux.com/javascript.html#wizard)  
+2.2.[jQuery事件绑定.on()简要概述及应用](http://www.jquerycn.cn/a_5346)  
+
+
+
+
+
+#4.disable标签和removeAttr()   
+[HTML disabled属性的启用和禁止](http://tjuking.iteye.com/blog/1397821)   
+[jQuery 属性操作 - removeAttr() 方法](http://www.w3school.com.cn/jquery/attributes_removeattr.asp)
+
 
 
 
