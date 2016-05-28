@@ -46,8 +46,11 @@ Reference:
 [jQuery 属性操作 - removeAttr() 方法](http://www.w3school.com.cn/jquery/attributes_removeattr.asp)
 
 ##5.JQuery如何自定义插件——$.fn的使用
-[JQuery如何自定义插件——$.fn的使用](http://www.2cto.com/kf/201412/357002.html)
+[JQuery如何自定义插件——$.fn的使用](http://www.2cto.com/kf/201412/357002.html)  
+[jquery开发自定义的插件总结](http://www.cnblogs.com/Jimmy009/archive/2013/01/17/jquery%E6%8F%92%E4%BB%B6.html)    
+[jQuery自定义插件](http://blog.csdn.net/bao19901210/article/details/21540137/)
 
+##6.好书推荐：《你不知道的JavaScript(上卷)》KYLE SIMPSON著作
 
 
 
