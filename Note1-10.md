@@ -51,6 +51,11 @@ Reference:
 [jQuery自定义插件](http://blog.csdn.net/bao19901210/article/details/21540137/)
 
 ##6.好书推荐：《你不知道的JavaScript(上卷)》KYLE SIMPSON著作
+    看了第一部分前两节的内容，觉得虽然有些部分还是写的通俗，但是有些内容比较学术，感觉是javascript层编译原理。先阶段是在学习使用javascript，估计还是不适合看这本书
+    
+    	
+##7.jQuery.serializeArray() 函数详解  
+[jQuery.serializeArray() 函数详解](http://www.365mini.com/page/jquery-serializearray.htm)
 
 
 
