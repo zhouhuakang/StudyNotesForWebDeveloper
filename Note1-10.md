@@ -45,6 +45,9 @@ Reference:
 [HTML disabled属性的启用和禁止](http://tjuking.iteye.com/blog/1397821)   
 [jQuery 属性操作 - removeAttr() 方法](http://www.w3school.com.cn/jquery/attributes_removeattr.asp)
 
+##5.JQuery如何自定义插件——$.fn的使用
+[JQuery如何自定义插件——$.fn的使用](http://www.2cto.com/kf/201412/357002.html)
+
 
 
 
