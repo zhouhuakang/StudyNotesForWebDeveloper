@@ -12,7 +12,23 @@ Reference:
 1.1.[http://www.w3school.com.cn/jquery/attributes_removeclass.asp](http://www.w3school.com.cn/jquery/attributes_removeclass.asp)
 1.2.[http://www.w3school.com.cn/jquery/attributes_removeclass.asp](http://www.w3school.com.cn/jquery/attributes_removeclass.asp)
 
+##2.$("li").click(function(e)中e是什么？
+e 是当前事件的对象，就是所点击的 li 这个对象。
+比如  
 
+```javascript	
+$(".box").click(function(e){
+if($(e.target).is("input")){
+```
+	
+点击的对象是\<input>标签的话
+
+1.[http://stackoverflow.com/questions/10323392/in-javascript-jquery-what-does-e-mean](http://stackoverflow.com/questions/10323392/in-javascript-jquery-what-does-e-mean)
+2.[http://bbs.csdn.net/topics/390777967?page=1](http://bbs.csdn.net/topics/390777967?page=1)
+
+.click()
+
+Bind an event handler to the “click” JavaScript event, or trigger that event on an element.
 #3.事件绑定
 
 ```javascript
@@ -55,7 +71,16 @@ Reference:
     
     	
 ##7.jQuery.serializeArray() 函数详解  
-[jQuery.serializeArray() 函数详解](http://www.365mini.com/page/jquery-serializearray.htm)
+[jQuery.serializeArray() 函数详解](http://www.365mini.com/page/jquery-serializearray.htm)  
+
+##8.JQuery中的对象和事件
+[JQuery中的对象和事件](http://www.cnblogs.com/luminji/p/3636233.html)  
+
+##9.JavaScript Array.push() 函数详解
+[JavaScript Array.push() 函数详解](http://www.365mini.com/page/javascript-array-push.htm)
+
+##10.jQuery.serialize() 函数详解
+[jQuery.serialize() 函数详解](http://)
 
 
 
